@@ -1,0 +1,233 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Api/Orders.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Api/Orders.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Api/Orders.Api.csproj",
+        "projectName": "Orders.Api",
+        "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Api/Orders.Api.csproj",
+        "packagesPath": "/Users/cassimiro/.nuget/packages/",
+        "outputPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cassimiro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/Orders.Domain.csproj": {
+                "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/Orders.Domain.csproj"
+              },
+              "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Infrastructure/Orders.Infrastructure.csproj": {
+                "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Infrastructure/Orders.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.19, 8.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/Orders.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/Orders.Domain.csproj",
+        "projectName": "Orders.Domain",
+        "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/Orders.Domain.csproj",
+        "packagesPath": "/Users/cassimiro/.nuget/packages/",
+        "outputPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cassimiro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Infrastructure/Orders.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Infrastructure/Orders.Infrastructure.csproj",
+        "projectName": "Orders.Infrastructure",
+        "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Infrastructure/Orders.Infrastructure.csproj",
+        "packagesPath": "/Users/cassimiro/.nuget/packages/",
+        "outputPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cassimiro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/Orders.Domain.csproj": {
+                "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/Orders.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
