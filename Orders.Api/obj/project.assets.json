@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Api/Orders.Api.csproj",
+      "projectUniqueName": "/Users/cassimiro/Documents/sierra/projects/ai_training/orders-api/Orders.Api/Orders.Api.csproj",
       "projectName": "Orders.Api",
-      "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Api/Orders.Api.csproj",
+      "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/orders-api/Orders.Api/Orders.Api.csproj",
       "packagesPath": "/Users/cassimiro/.nuget/packages/",
-      "outputPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Api/obj/",
+      "outputPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/orders-api/Orders.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cassimiro/.nuget/NuGet/NuGet.Config"
@@ -70,11 +70,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/Orders.Domain.csproj": {
-              "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/Orders.Domain.csproj"
+            "/Users/cassimiro/Documents/sierra/projects/ai_training/orders-api/Orders.Domain/Orders.Domain.csproj": {
+              "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/orders-api/Orders.Domain/Orders.Domain.csproj"
             },
-            "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Infrastructure/Orders.Infrastructure.csproj": {
-              "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Infrastructure/Orders.Infrastructure.csproj"
+            "/Users/cassimiro/Documents/sierra/projects/ai_training/orders-api/Orders.Infrastructure/Orders.Infrastructure.csproj": {
+              "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/orders-api/Orders.Infrastructure/Orders.Infrastructure.csproj"
             }
           }
         }

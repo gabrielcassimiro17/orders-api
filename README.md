@@ -1,6 +1,6 @@
-# BadOrdersApi
+# OrdersApi
 
-really basic bad orders api
+really basic orders api
 
 run:
 

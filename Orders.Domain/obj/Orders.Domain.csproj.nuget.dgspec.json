@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/Orders.Domain.csproj": {}
+    "/Users/cassimiro/Documents/sierra/projects/ai_training/orders-api/Orders.Domain/Orders.Domain.csproj": {}
   },
   "projects": {
-    "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/Orders.Domain.csproj": {
+    "/Users/cassimiro/Documents/sierra/projects/ai_training/orders-api/Orders.Domain/Orders.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/Orders.Domain.csproj",
+        "projectUniqueName": "/Users/cassimiro/Documents/sierra/projects/ai_training/orders-api/Orders.Domain/Orders.Domain.csproj",
         "projectName": "Orders.Domain",
-        "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/Orders.Domain.csproj",
+        "projectPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/orders-api/Orders.Domain/Orders.Domain.csproj",
         "packagesPath": "/Users/cassimiro/.nuget/packages/",
-        "outputPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Domain/obj/",
+        "outputPath": "/Users/cassimiro/Documents/sierra/projects/ai_training/orders-api/Orders.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cassimiro/.nuget/NuGet/NuGet.Config"

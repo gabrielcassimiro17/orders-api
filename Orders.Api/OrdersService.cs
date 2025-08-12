@@ -24,7 +24,7 @@ public class OrdersService
 
         try
         {
-            if (page.HasValue && page.Value < 0) return new { ok = false, msg = "bad page" };
+            if (page.HasValue && page.Value < 0) return new { ok = false, msg = "invalid page" };
             if (pageSize.HasValue && pageSize.Value > MAX_PAGE) return "too big pageSize";
 
             var key = "orders_" + (xx ?? "ALL");

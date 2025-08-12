@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hyumyq4fhoU=",
+  "dgSpecHash": "xt+bq+W/OSE=",
   "success": true,
-  "projectFilePath": "/Users/cassimiro/Documents/sierra/projects/ai_training/Orders.Infrastructure/Orders.Infrastructure.csproj",
+  "projectFilePath": "/Users/cassimiro/Documents/sierra/projects/ai_training/orders-api/Orders.Infrastructure/Orders.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/cassimiro/.nuget/packages/microsoft.netcore.app.ref/8.0.19/microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
     "/Users/cassimiro/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.19/microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512"

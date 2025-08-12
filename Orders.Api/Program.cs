@@ -49,7 +49,7 @@ app.MapPut("/orders/{id}", (Guid id, HttpContext ctx) =>
     }
     catch
     {
-        return Results.BadRequest("bad json");
+        return Results.BadRequest("invalid json");
     }
 });
 
